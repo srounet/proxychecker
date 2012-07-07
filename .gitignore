@@ -1,0 +1,23 @@
+# Python
+*.pyc
+
+# Git
+*.orig
+*.rej
+
+# Vim
+.*.swp
+.*.swo
+.*.swp
+
+# Emacs
+*~
+
+# distutil
+MANIFEST
+dist/*
+build/*
+*.egg-info
+
+#Sc2Gears
+Sc2gears.sh
